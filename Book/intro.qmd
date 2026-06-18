@@ -9,3 +9,5 @@ See @knuth84 for additional discussion of literate programming.
 ```
 
 Now we're moving on to github. Right, so if we were smart, we'd have made this project and the book and THEN told github to add an existing repo from this folder. Naturally, I fucked it.
+
+We need to go to Github –\> repo –\> settings –\> pages –\> branch –\> (none \> main) & (root \> docs)

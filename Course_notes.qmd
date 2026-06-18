@@ -43,3 +43,5 @@ Rmarkdown was always tied to R/Posit. Quarto is not. It can be used with differe
 Github is great for sharing code, version control, etc.
 
 Anyway, quarto needs rendered the same as Rmd files. This is when you choose which output format you want.
+
+Don't use private repo for github. It has limited functions.
