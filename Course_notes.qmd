@@ -45,3 +45,12 @@ Github is great for sharing code, version control, etc.
 Anyway, quarto needs rendered the same as Rmd files. This is when you choose which output format you want.
 
 Don't use private repo for github. It has limited functions.
+
+Apply for a github educational license through the uni!
+
+Also here's a little fun package: <https://github.com/debruine/booktem>
+
+```{r}
+library(booktem)
+
+```
