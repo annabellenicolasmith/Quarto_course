@@ -7,3 +7,25 @@ To learn more about Quarto books visit <https://quarto.org/docs/books>.
 ```{r}
 1 + 1
 ```
+
+Because we trick the book into becoming a html webpage, we NEED an index file for the webpage to land on.
+
+For some reason, it also makes a .gitignore file? Oh, it's like R-related files (.Rhistory, etc).
+
+Also, I'm not sure why we're using a project. I should figure that out. Might just be directory.
+
+Oh, look! I'm editing the index file! Maybe that's not what i was meant to do.
+
+Update to future me: It hasn't updated the index webpage since I rendered this and then added all the other stuff. So I guess we may need to re-render it.
+
+Each chapter in the book gets its own html page. Which may or may not be stored in the \_book directory.
+
+The book will also make a yml file and this is indentation sensitive. And you can edit this for different types, author, etc.
+
+You can edit the chapter order in the yml file! But don't ruin the indentations
+
+You can also add a .bib file to get nice references.
+
+In the yml file, the pdf thingy is for latex, so delete that
+
+Once you set/rename the output-dir in the yml document, you can delete the \_book directory because it will all transfer over to the new one.

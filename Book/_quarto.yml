@@ -1,9 +1,10 @@
 project:
   type: book
+  output-dir: docs
 
 book:
   title: "Book"
-  author: "Norah Jones"
+  author: "Annabelle"
   date: "6/18/2026"
   chapters:
     - index.qmd
@@ -18,8 +19,8 @@ format:
     theme:
       - cosmo
       - brand
-  pdf:
-    documentclass: scrreprt
+#  pdf:
+#    documentclass: scrreprt
 
 editor: visual
 
