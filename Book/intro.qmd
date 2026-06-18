@@ -15,3 +15,5 @@ We need to go to Github –\> repo –\> settings –\> pages –\> branch –\>
 also change the repo 'about' website to the github pages website
 
 Don't include more than one level 1 header in a qmd file bc then it treats it as a separate chapter and that's a pain in the ass for editing
+
+You have GOT to render the book before your changes to qmd files go through and work on github
