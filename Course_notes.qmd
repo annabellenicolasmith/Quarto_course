@@ -1,0 +1,45 @@
+---
+title: "Quarto course"
+author: "Annabelle N. Smith"
+format: html
+editor: visual
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
+
+----
+
+# Quarto Course
+
+## James Bartlett 
+
+#### Thursday 18 June, 2026
+
+<https://bartlettje.github.io/dissemination_quarto/>
+
+<https://bartlettje.github.io/dissemination_quarto/dissemination_slides.html#/title-slide> (slides)
+
+Rmarkdown was always tied to R/Posit. Quarto is not. It can be used with different programming languages such as html, java, etc. You can make it into slides, word documents, websites, etc. Those fancy github.io pages (or at least James') are made in Quarto!
+
+Github is great for sharing code, version control, etc.
+
+Anyway, quarto needs rendered the same as Rmd files. This is when you choose which output format you want.
