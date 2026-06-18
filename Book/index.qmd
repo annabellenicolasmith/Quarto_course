@@ -1,4 +1,6 @@
-# Preface {.unnumbered}
+# About this book {.unnumbered}
+
+Use the "{.unnumbered}" thingy after a header to not include it in the index
 
 This is a Quarto book.
 
